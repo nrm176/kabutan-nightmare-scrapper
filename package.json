@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "async": "2.1.5",
+    "async": "2.6.4",
     "body-parser": "1.17.1",
     "cheerio": "0.22.0",
     "express": "4.17.1",
